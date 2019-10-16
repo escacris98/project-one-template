@@ -1,1 +1,15 @@
 /* Enter your Styles below! */
+
+body {
+	background-image: url(../images/Untitled-1-03.png);
+	background-size:100%;
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+h1 {
+	font-family:GT Walsheim Pro Trial;
+	font-size: 130px;
+	margin-top: 40vh;
+	margin-left: 36vw;
+}
