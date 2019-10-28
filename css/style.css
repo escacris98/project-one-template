@@ -1,15 +1,54 @@
 /* Enter your Styles below! */
+{
+	margin: 0;
+	padding: 0;
+	font-family: GT Walsheim Pro Trial;
+
+}
 
 body {
-	background-image: url(../images/Untitled-1-03.png);
-	background-size:100%;
+	background-image: url(../images/valpo-03.png);
+	background-size:cover;
 	background-repeat: no-repeat;
 	background-color: black;
 }
 
+ul{
+	float: top;
+	list-style-type: none;
+	font-family: GT Walsheim Pro Trial;
+	font-size: 30px;
+	margin-top: 45px;
+	margin-left: 400px;
+
+
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	transition: 0.8s ease;
+}
+
+ul li a:hover{
+	color: #fa625f;
+}
+
+
+
+
+
 h1 {
 	font-family:GT Walsheim Pro Trial;
-	font-size: 130px;
-	margin-top: 40vh;
-	margin-left: 36vw;
+	font-size: 120px;
+	margin-top: 28vh;
+	margin-left: 36.5vw;
 }
+
+
+
+	
